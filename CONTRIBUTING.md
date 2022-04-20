@@ -1,6 +1,11 @@
 
 ## Acceptable Contributions
 
+-Do you want to become a contributor for all solutions of problems on www.binarysearch.com?
+-Do you want to know all solutions on that site?
+
+ JOIN US!! 🚀🚀🚀🚀🚀🚀 
+ 
 We only accept pull requests that:
 
 - true(passed all tests) solution for existing problem
