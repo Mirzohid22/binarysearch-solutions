@@ -1,8 +1,8 @@
 
 ## Acceptable Contributions
 
--Do you want to become a contributor for all solutions of problems on www.binarysearch.com?
--Do you want to know all solutions on that site?
+-Do you want to contribute to this repository? 
+-Do you know at least a solution on that site?
 
  JOIN US!! 🚀🚀🚀🚀🚀🚀 
  
