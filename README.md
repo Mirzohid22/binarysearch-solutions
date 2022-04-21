@@ -1,3 +1,5 @@
 # binarysearch-solutions
 
-This repository contains my solutions for www.binarysearch.com problems
+This repository contains some of the solutions for www.binarysearch.com problems
+
+Feel free to add your solutions 🌱
